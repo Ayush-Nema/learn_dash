@@ -1,5 +1,5 @@
 """
-Tutorial on creating a dash app
+Tutorial_2 on creating a dash app
 =================================
 Data source: https://www.kaggle.com/datasets/neuromusic/avocado-prices
 Article source link: https://realpython.com/python-dash/
