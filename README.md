@@ -10,7 +10,7 @@ A repository to learn about [Dash](https://dash.plotly.com/introduction) via cur
 
 But what is Dash?
 -------------------
-![Dash logo](dash_logo.svg "Plotly Dash logo")
+![Dash logo](dash_logo.svg "Plotly Dash logo")  
 Dash is an open source framework for building data visualization interfaces. Released in 2017 as a Python library, it’s
 grown to include implementations for R and Julia. Dash helps data scientists build analytical web applications without
 requiring advanced web development knowledge.
@@ -29,6 +29,7 @@ For more information on Dash, refer these articles:
 
 - [Python Dash](https://realpython.com/python-dash/)
 - [Dash for beginners](https://towardsdatascience.com/dash-for-beginners-create-interactive-python-dashboards-338bfcb6ffa4)
+- [Dash tutorials](https://project-awesome.org/ucg8j/awesome-dash#app-examples)
 
 ----
 
@@ -39,6 +40,8 @@ The repository contains four tutorials:
   files to style the app, also it uses Dash `callbacks` to provide interactivity.
 - _Tutorial_3_: teaches how to create an app (2 column format) on Stock data using external CSS files (`style.css`),
   also contains `callback` procedures for graph interactions.
-- _Tutorial_4_: has a very basic app for demonstrating various widgets that come with Dash. 
+- _Tutorial_4_: has a very basic app for demonstrating various widgets that come with Dash.
+- _Tutorial_5_: contains various subsections. _demo_1_ demonstrates fundamental features for Dash
+  `Datatable` and _demo_2_ onwards has code for more advanced and customised data tables. 
 
 
